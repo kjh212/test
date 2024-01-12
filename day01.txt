@@ -3,3 +3,4 @@
 3. git init, git status, git add 파일명, git commit -m "~~~", git config (git 명령어)
 4. git log, git checkout 해시코드, git checkout -, (git 명령어)
 5. git remote add origin 리포지토리주소, git remote -v, git push -u origin main, git remote remove origin, git branch -M main(git 명령어)
+6. 파이참 사용법 - 메인메뉴 세팅-풀-터미널-shellpath(git)-플러그인-.ignore설치및디서블-파일왼클릭후 뉴-이그로파일(git)-python 관련선택-
